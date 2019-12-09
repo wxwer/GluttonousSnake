@@ -1,1 +1,1 @@
-贪吃蛇游戏的实现，经典怀旧
+the implementation of GluttonousSnake with C++ language
