@@ -1,1 +1,1 @@
-the implementation of GluttonousSnake with C++ language
+使用 C++ 语言来实现贪吃蛇游戏
